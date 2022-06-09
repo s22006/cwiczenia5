@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=localhost,1433; Database=zd7,User ID=sa;Password=Passw0rd;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Tables "Client","Trip","Client_Trip", "Cuntry", "Cuntry_Trip"
